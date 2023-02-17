@@ -2,7 +2,7 @@
 import React from 'react';
 import './App.css';
 import Home from './Home';
-import { BrowserRouter, Routes, Route, Outlet, useNavigate, Link } from "react-router-dom";
+import { BrowserRouter, Routes, Route} from "react-router-dom";
 import Mountains from './Mountains';
 import Beaches from './Beaches';
 import Birds from './Birds';
